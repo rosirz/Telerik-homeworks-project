@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\ReverseNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\SchoolClasses\bin\Debug\SchoolClasses.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\SchoolClasses\bin\Debug\SchoolClasses.pdb
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\SchoolClasses\obj\Debug\SchoolClasses.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\SchoolClasses\obj\Debug\SchoolClasses.pdb

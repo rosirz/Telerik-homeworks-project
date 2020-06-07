@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb

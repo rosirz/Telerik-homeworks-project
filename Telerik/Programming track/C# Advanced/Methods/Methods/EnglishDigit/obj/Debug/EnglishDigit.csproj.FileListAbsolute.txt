@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\EnglishDigit\obj\Debug\EnglishDigit.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

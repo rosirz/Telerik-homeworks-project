@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\Digits\bin\Debug\Digits.exe.config
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\Digits\bin\Debug\Digits.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\Digits\bin\Debug\Digits.pdb
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\Digits\obj\Debug\Digits.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\Digits\obj\Debug\Digits.pdb

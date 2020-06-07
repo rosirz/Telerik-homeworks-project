@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-var2\bin\Debug\Exam-task1-var2.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-var2\bin\Debug\Exam-task1-var2.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-var2\bin\Debug\Exam-task1-var2.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-var2\obj\Debug\Exam-task1-var2.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-var2\obj\Debug\Exam-task1-var2.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-var2\obj\Debug\Exam-task1-var2.pdb

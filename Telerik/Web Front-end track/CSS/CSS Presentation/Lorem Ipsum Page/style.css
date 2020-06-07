@@ -1,0 +1,14 @@
+
+body {
+    background-color: white;
+    color: rgb(0, 191, 255);
+    font-family: 'Inconsolata', monospace;
+    text-align: justify;
+    font-size: 18px;
+    width :700px;
+    }
+    span {
+        font-family: 'Rouge Script', cursive;
+        font-size: 40px;
+        font-weight: bold;
+    }

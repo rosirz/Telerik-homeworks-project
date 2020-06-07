@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.pdb

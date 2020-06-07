@@ -1,0 +1,5 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-var2\bin\Debug\Task2-var2.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-var2\bin\Debug\Task2-var2.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-var2\bin\Debug\Task2-var2.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-var2\obj\Debug\Task2-var2.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-var2\obj\Debug\Task2-var2.pdb

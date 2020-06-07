@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\SumIntegers\bin\Debug\SumIntegers.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\SumIntegers\bin\Debug\SumIntegers.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\SumIntegers\bin\Debug\SumIntegers.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\SumIntegers\obj\Debug\SumIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\SumIntegers\obj\Debug\SumIntegers.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\SumIntegers\obj\Debug\SumIntegers.pdb

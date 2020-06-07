@@ -1,0 +1,5 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb

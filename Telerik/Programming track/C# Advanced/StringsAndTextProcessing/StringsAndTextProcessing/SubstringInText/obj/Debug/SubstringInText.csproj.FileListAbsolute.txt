@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\SubstringInText\bin\Debug\SubstringInText.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\SubstringInText\bin\Debug\SubstringInText.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\SubstringInText\bin\Debug\SubstringInText.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\SubstringInText\obj\Debug\SubstringInText.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\SubstringInText\obj\Debug\SubstringInText.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\SubstringInText\obj\Debug\SubstringInText.pdb

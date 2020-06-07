@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\AppearanceCount\bin\Debug\AppearanceCount.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\AppearanceCount\bin\Debug\AppearanceCount.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\AppearanceCount\bin\Debug\AppearanceCount.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\AppearanceCount\obj\Debug\AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\AppearanceCount\obj\Debug\AppearanceCount.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\AppearanceCount\obj\Debug\AppearanceCount.pdb

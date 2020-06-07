@@ -1,0 +1,84 @@
+
+.container {
+    width:650px;
+    height:410px;
+    border:2px solid grey;
+    border-radius: 5px;
+    padding:5px;
+}
+div.header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    border-bottom:2px solid grey;
+    margin-bottom: 5px;
+    padding:5px;
+}
+div.content {
+    height:90%;
+    display:flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin:0;
+}
+a{
+     color: rgb(5, 175, 240);
+      font-size: 20px;
+      font-weight: bold;
+}
+.inner {
+    height:98%;
+    border:2px solid grey;
+   display: flex;
+   flex-direction: row;
+   border-radius: 0;
+   padding-bottom: 0;
+  
+  
+}
+.left, .right {
+    width: 50%;
+}
+fieldset {
+    /*width:45%;*/
+    text-align: center;
+    font-family: 'BeoSans4';
+    font-weight: normal;
+    
+    padding:5px;
+}
+img {
+    float: left;
+    
+    width:120px;
+    height: 70px;
+}
+.price {
+    clear:left;
+    float: left;
+}
+p{
+    margin:0;
+}
+p.memory{
+    margin:10px;;
+}
+p.price {
+    padding-left: 20px;
+}
+div.buttons {
+    width:40%;
+    font-family: 'BeoSans4';
+    font-size: 20px;
+    text-align: center;
+    padding-top:40px;
+    
+    margin-right: 0px;
+    
+}
+ ul {
+    list-style: none;
+    padding-left: 5px;
+   
+    line-height: 35px;
+}

@@ -1,0 +1,1 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\BinarySearch\bin\Debug\BinarySearch.exe.config

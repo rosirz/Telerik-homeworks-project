@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-solution\bin\Debug\Task2-solution.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-solution\bin\Debug\Task2-solution.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-solution\bin\Debug\Task2-solution.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-solution\obj\Debug\Task2-solution.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-solution\obj\Debug\Task2-solution.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task2-solution\obj\Debug\Task2-solution.pdb

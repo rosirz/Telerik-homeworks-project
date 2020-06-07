@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\SortingArray\bin\Debug\SortingArray.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\SortingArray\bin\Debug\SortingArray.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\SortingArray\bin\Debug\SortingArray.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\SortingArray\obj\Debug\SortingArray.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\SortingArray\obj\Debug\SortingArray.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\SortingArray\obj\Debug\SortingArray.pdb

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>  
+    <title>Sample form </title>
+    <style>
+        table {border-collapse: collapse;}
+        table,td {border: 0.1px solid grey;}
+        table {font-size: 18px;}
+        tfoot {background-color: lightblue;}
+        
+    </style>
+</head>
+
+
+      <form name="regitration form" method="GET" action="#">
+        <strong>Last Name </strong><input name="lastname" type="text" value="Nakov"> 
+        <br>
+        <strong>First Name </strong><input name="firstname" type="text" value="Svetlin"> 
+        <br>
+        <strong>Address </strong><textarea name="address" text-align="left" rows="4" >17 Hristo Botev Str. floor 3, apt. 12 </textarea> 
+        <br>
+        <strong>City </strong><input name="city" type="text" value="Kaspichan">
+        <strong>State </strong><input name="state" type="text"> 
+        <br>
+        <strong>Zip/Postal Code </strong><input name="zipcode" type="text" value="9325"> 
+        <br>
+        <strong>Country </strong><select name= "Country">
+            <option value = "Value 1" selected="selected" >Bulgaria </option>
+            <option value = "Value 2" > Other country </option>
+            </select>
+        <br>
+        <strong>Phone (country code, area code, number)</strong>(+<input name="countrycode" type="text" value="359">
+        ) <input name="arecode" type="text" value="88"> 
+        - <input name="number" type="text" value="8334343"> 
+        <br>
+        <strong>E-mail </strong><input name="email" type="email" value="nakov@kaspichan.org"> 
+        <br>
+        <strong>Birth date </strong> Month <input name="month" type="text" value="06"> 
+                         Day <input name="day" type="text" value="14"> 
+                         Year (4 digit) <input name="year" type="text" value="1980"> 
+        <br>
+        <strong>Gender </strong><select name= "Gender">
+            <option value = "Value 1" selected="selected">Male </option>
+            <option value = "Value 2" > Female </option>
+            </select> 
+        <br>
+        <strong>Starting date </strong><input name="start" type="radio"  value="Spring 2006" checked>Spring 2006 
+                        <input name="start" type="radio"  value="Summer 2006"> Summer 2006 
+        <br>
+        <strong>Comments/Questions </strong><textarea name="comments" text-align="left">Please send me mor information about the lodging. </textarea></td>
+        <br>
+        <input type="submit" name="submitBtn" value="Submit" /><input type="reset" name="resetBtn"   value="Clear This form" />
+               
+        </form>
+
+</html>   

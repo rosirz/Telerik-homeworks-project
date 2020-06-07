@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\NumbersAsArray\bin\Debug\NumbersAsArray.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\NumbersAsArray\bin\Debug\NumbersAsArray.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\NumbersAsArray\bin\Debug\NumbersAsArray.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\NumbersAsArray\obj\Debug\NumbersAsArray.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\NumbersAsArray\obj\Debug\NumbersAsArray.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\NumbersAsArray\obj\Debug\NumbersAsArray.pdb

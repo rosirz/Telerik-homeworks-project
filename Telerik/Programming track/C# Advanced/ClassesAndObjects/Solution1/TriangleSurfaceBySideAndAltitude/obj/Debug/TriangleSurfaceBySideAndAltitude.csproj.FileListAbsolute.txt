@@ -1,0 +1,5 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceBySideAndAltitude\bin\Debug\TriangleSurfaceBySideAndAltitude.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceBySideAndAltitude\obj\Debug\TriangleSurfaceBySideAndAltitude.pdb

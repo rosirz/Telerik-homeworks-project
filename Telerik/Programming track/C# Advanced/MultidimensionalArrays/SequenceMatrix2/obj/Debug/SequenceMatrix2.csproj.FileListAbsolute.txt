@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\SequenceMatrix2\bin\Debug\SequenceMatrix2.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\SequenceMatrix2\bin\Debug\SequenceMatrix2.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\SequenceMatrix2\bin\Debug\SequenceMatrix2.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\SequenceMatrix2\obj\Debug\SequenceMatrix2.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\SequenceMatrix2\obj\Debug\SequenceMatrix2.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\SequenceMatrix2\obj\Debug\SequenceMatrix2.pdb

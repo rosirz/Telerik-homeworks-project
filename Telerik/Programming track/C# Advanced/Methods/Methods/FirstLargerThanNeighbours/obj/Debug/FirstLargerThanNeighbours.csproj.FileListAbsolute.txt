@@ -1,0 +1,5 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\AnimalHierarchy\obj\Debug\AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb

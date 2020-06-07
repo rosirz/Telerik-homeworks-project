@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryShort\bin\Debug\BinaryShort.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryShort\bin\Debug\BinaryShort.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryShort\bin\Debug\BinaryShort.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryShort\obj\Debug\BinaryShort.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryShort\obj\Debug\BinaryShort.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryShort\obj\Debug\BinaryShort.pdb

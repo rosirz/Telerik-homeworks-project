@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task3-SnackyTheSnake\bin\Debug\Task3-SnackyTheSnake.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task3-SnackyTheSnake\bin\Debug\Task3-SnackyTheSnake.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task3-SnackyTheSnake\bin\Debug\Task3-SnackyTheSnake.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task3-SnackyTheSnake\obj\Debug\Task3-SnackyTheSnake.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task3-SnackyTheSnake\obj\Debug\Task3-SnackyTheSnake.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task3-SnackyTheSnake\obj\Debug\Task3-SnackyTheSnake.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\DateDistance\bin\Debug\DateDistance.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\DateDistance\bin\Debug\DateDistance.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\DateDistance\bin\Debug\DateDistance.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\DateDistance\obj\Debug\DateDistance.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\DateDistance\obj\Debug\DateDistance.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\DateDistance\obj\Debug\DateDistance.pdb

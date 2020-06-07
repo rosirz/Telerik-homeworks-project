@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceByTwoSidesAndAngle\bin\Debug\TriangleSurfaceByTwoSidesAndAngle.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceByTwoSidesAndAngle\bin\Debug\TriangleSurfaceByTwoSidesAndAngle.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceByTwoSidesAndAngle\bin\Debug\TriangleSurfaceByTwoSidesAndAngle.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceByTwoSidesAndAngle\obj\Debug\TriangleSurfaceByTwoSidesAndAngle.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceByTwoSidesAndAngle\obj\Debug\TriangleSurfaceByTwoSidesAndAngle.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\TriangleSurfaceByTwoSidesAndAngle\obj\Debug\TriangleSurfaceByTwoSidesAndAngle.csprojResolveAssemblyReference.cache

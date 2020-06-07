@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-Functional Numeral system\bin\Debug\Exam-task1-Functional Numeral system.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-Functional Numeral system\bin\Debug\Exam-task1-Functional Numeral system.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-Functional Numeral system\bin\Debug\Exam-task1-Functional Numeral system.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-Functional Numeral system\obj\Debug\Exam-task1-Functional Numeral system.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-Functional Numeral system\obj\Debug\Exam-task1-Functional Numeral system.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Exam-task1-Functional Numeral system\obj\Debug\Exam-task1-Functional Numeral system.pdb

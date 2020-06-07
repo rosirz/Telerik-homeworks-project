@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Hint-task1\bin\Debug\Hint-task1.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Hint-task1\bin\Debug\Hint-task1.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Hint-task1\bin\Debug\Hint-task1.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Hint-task1\obj\Debug\Hint-task1.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Hint-task1\obj\Debug\Hint-task1.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\Hint-task1\obj\Debug\Hint-task1.csprojResolveAssemblyReference.cache

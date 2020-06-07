@@ -1,0 +1,42 @@
+img {
+    width: 20px;
+    height: 10px;
+}
+
+table, td {
+    border: 1px solid darkgrey;
+    border-collapse : collapse;
+    border-bottom: 1px solid darkgrey;
+}
+td {
+    padding: 5px;
+    font-family: monospace;
+    font-size: 12px;
+}
+
+table, .first, .last {
+    border-left: none;
+    border-right: none;
+}
+
+.first {
+    width:120px;
+}
+td {
+    border-top: none;
+    border-bottom: none;
+}
+
+tr:nth-child(odd){
+    background-color: lightgrey;
+}
+tr:first-child {
+    background-color: limegreen;
+    color: white
+    }
+td:first-child {
+    width: 150px;
+}
+td:nth-child(3) {
+    width: 100px;
+}     

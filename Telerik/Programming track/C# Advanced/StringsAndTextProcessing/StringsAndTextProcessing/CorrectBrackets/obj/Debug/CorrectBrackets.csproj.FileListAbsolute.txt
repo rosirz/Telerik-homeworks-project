@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\StringsAndTextProcessing\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

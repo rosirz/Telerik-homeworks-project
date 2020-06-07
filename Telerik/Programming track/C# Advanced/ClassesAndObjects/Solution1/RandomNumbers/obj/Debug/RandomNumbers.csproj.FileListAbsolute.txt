@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\ClassesAndObjects\Solution1\RandomNumbers\obj\Debug\RandomNumbers.pdb

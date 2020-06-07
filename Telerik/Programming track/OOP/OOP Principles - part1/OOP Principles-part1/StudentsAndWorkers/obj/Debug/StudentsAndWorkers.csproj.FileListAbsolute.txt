@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\OOP\OOP Principles - part1\OOP Principles-part1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\N_Factoriel\bin\Debug\N_Factoriel.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\N_Factoriel\bin\Debug\N_Factoriel.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\N_Factoriel\bin\Debug\N_Factoriel.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\N_Factoriel\obj\Debug\N_Factoriel.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\N_Factoriel\obj\Debug\N_Factoriel.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Methods\Methods\N_Factoriel\obj\Debug\N_Factoriel.pdb

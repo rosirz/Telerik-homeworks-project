@@ -1,0 +1,9 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\bin\Debug\HexaDecimalToDecimal.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\bin\Debug\HexaDecimalToDecimal.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\bin\Debug\HexaDecimalToDecimal.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\obj\Debug\HexaDecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\obj\Debug\HexaDecimalToDecimal.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\obj\Debug\HexaDecimalToDecimal.pdb
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\bin\Debug\HexaDecimalToDecimal.exe.config
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\obj\Debug\HexaDecimalToDecimal.exe
+C:\Users\Rositsa\Documents\Telerik\Programming track\C# Advanced\NumeralSystems\NumeralSystem\HexaDecimalToDecimal\obj\Debug\HexaDecimalToDecimal.pdb

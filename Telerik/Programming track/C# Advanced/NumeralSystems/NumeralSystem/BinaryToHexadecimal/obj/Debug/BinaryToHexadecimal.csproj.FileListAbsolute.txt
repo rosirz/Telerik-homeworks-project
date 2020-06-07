@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\NumeralSystems\NumeralSystem\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb

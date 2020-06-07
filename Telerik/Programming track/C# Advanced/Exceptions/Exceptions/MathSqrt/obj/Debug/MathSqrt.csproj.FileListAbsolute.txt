@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exceptions\Exceptions\MathSqrt\bin\Debug\MathSqrt.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exceptions\Exceptions\MathSqrt\bin\Debug\MathSqrt.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exceptions\Exceptions\MathSqrt\bin\Debug\MathSqrt.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exceptions\Exceptions\MathSqrt\obj\Debug\MathSqrt.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exceptions\Exceptions\MathSqrt\obj\Debug\MathSqrt.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exceptions\Exceptions\MathSqrt\obj\Debug\MathSqrt.pdb

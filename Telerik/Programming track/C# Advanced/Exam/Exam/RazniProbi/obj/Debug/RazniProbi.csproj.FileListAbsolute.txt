@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\RazniProbi\bin\Debug\RazniProbi.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\RazniProbi\bin\Debug\RazniProbi.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\RazniProbi\bin\Debug\RazniProbi.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\RazniProbi\obj\Debug\RazniProbi.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\RazniProbi\obj\Debug\RazniProbi.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\RazniProbi\obj\Debug\RazniProbi.pdb

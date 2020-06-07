@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task4-PeshoCode\bin\Debug\Task4-PeshoCode.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task4-PeshoCode\bin\Debug\Task4-PeshoCode.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task4-PeshoCode\bin\Debug\Task4-PeshoCode.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task4-PeshoCode\obj\Debug\Task4-PeshoCode.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task4-PeshoCode\obj\Debug\Task4-PeshoCode.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\Exam\Exam\Task4-PeshoCode\obj\Debug\Task4-PeshoCode.pdb

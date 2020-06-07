@@ -1,0 +1,6 @@
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\Rositsa\Documents\Telerik\C# Advanced\MultidimensionalArrays\MaximalSum\obj\Debug\MaximalSum.pdb
