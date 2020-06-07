@@ -1,6 +1,0 @@
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Ranica\bin\Debug\Ranica.exe.config
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Ranica\bin\Debug\Ranica.exe
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Ranica\bin\Debug\Ranica.pdb
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Ranica\obj\Debug\Ranica.csprojResolveAssemblyReference.cache
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Ranica\obj\Debug\Ranica.exe
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Ranica\obj\Debug\Ranica.pdb

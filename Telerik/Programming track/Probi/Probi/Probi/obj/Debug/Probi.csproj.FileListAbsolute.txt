@@ -1,6 +1,0 @@
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Probi\bin\Debug\Probi.exe.config
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Probi\bin\Debug\Probi.exe
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Probi\bin\Debug\Probi.pdb
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Probi\obj\Debug\Probi.csprojResolveAssemblyReference.cache
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Probi\obj\Debug\Probi.exe
-C:\Users\Rositsa\Documents\Telerik\Programming track\Probi\Probi\Probi\obj\Debug\Probi.pdb

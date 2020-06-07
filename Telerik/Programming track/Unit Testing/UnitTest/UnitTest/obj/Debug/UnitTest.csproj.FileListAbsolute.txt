@@ -1,6 +1,0 @@
-C:\Users\Rositsa\Documents\Telerik\Programming track\Unit Testing\UnitTest\UnitTest\bin\Debug\UnitTest.exe.config
-C:\Users\Rositsa\Documents\Telerik\Programming track\Unit Testing\UnitTest\UnitTest\bin\Debug\UnitTest.exe
-C:\Users\Rositsa\Documents\Telerik\Programming track\Unit Testing\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
-C:\Users\Rositsa\Documents\Telerik\Programming track\Unit Testing\UnitTest\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
-C:\Users\Rositsa\Documents\Telerik\Programming track\Unit Testing\UnitTest\UnitTest\obj\Debug\UnitTest.exe
-C:\Users\Rositsa\Documents\Telerik\Programming track\Unit Testing\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
